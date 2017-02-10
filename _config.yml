@@ -1,0 +1,26 @@
+# Dependencies
+markdown:         redcarpet
+highlighter:      pygments
+
+# Permalinks
+permalink:        pretty
+relative_permalinks: true
+
+# Setup
+title:            Chris's Pages
+tagline:          'Quantitative FInance & Data Science'
+description:      'I am a quantitative finance student interested in data science. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://jingtt.github.io
+baseurl:          /
+
+author:
+  name:           'Chris Jing'
+  url:            http://jingtt.github.io
+
+paginate:         5
+
+# Custom vars
+version:          0.0.1
+
+github:
+  repo:           https://github.com/poole/hyde
