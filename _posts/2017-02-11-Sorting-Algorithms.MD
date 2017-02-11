@@ -44,3 +44,13 @@ for i in a:
     for 
 ```
 
+
+
+# Quick Sort
+
+
+
+
+
+# Merge Sort
+
