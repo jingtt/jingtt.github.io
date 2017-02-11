@@ -7,6 +7,8 @@ description: Simple is a beautiful but functional jekyll theme. The font-type se
 
 Simple is a beautiful but functional jekyll theme. The font-type setting looks really good when writers use CJK mixed with English.
 
+$x$
+
 First of all, let's have a glance at the basic styles: [link](http://github.com/wild-flame/jekyll-simple), **strong**, *italic*, <del>deletion</del>, <ins>insertion</ins>.
 
 <!--description-->

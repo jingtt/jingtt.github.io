@@ -22,6 +22,7 @@ twitter_username:
 markdown: kramdown
 kramdown:
   input: GFM
+latex: True
 
 # Third-party services
 # just leave someone empty to disable it
