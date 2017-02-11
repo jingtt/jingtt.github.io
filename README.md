@@ -1,3 +1,2 @@
-# Chris's Pages
+# Hi, this is my blog!
 
-Hi, this is my blog. 
