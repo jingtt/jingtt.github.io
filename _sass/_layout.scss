@@ -33,8 +33,9 @@ body {
       text-decoration:none;
     }
     a:hover {
-      color:maroon;
-      border-bottom:1px solid;
+      color: maroon;
+	  text-decoration: underline;
+      /* border-bottom:1px solid; */
     }
   }
 }
@@ -219,12 +220,14 @@ p.readmore {
 }
 
 .article-content a {
-  /* border-bottom:1px solid navy; */
-  text-decoration:none;
+  color: blue;
+  text-decoration: none;
+  /* border-bottom:1px solid navy; */ 
 }
 .article-content a:hover {
   color:navy;
-  border-bottom:1px solid navy;
+  text-decoration: underline;
+  /* border-bottom:1px solid navy; */
 }
 
 .article-footer {
@@ -329,7 +332,7 @@ body.custom-background {
 
 /* Archive page */
 
-.archive_list { 
+.posts_list { 
   margin-left:5%;
   width:90%;
   margin-bottom:3rem;
