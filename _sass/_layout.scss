@@ -29,11 +29,11 @@ body {
   .left {
     a {
       color: #666;
-      border-bottom:1px solid;
+      / *border-bottom:1px solid; */
       text-decoration:none;
     }
     a:hover {
-      color:navy;
+      color:maroon;
       border-bottom:1px solid;
     }
   }
@@ -219,7 +219,7 @@ p.readmore {
 }
 
 .article-content a {
-  border-bottom:1px dotted red;
+  /* border-bottom:1px solid navy; */
   text-decoration:none;
 }
 .article-content a:hover {
