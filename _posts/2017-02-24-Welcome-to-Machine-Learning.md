@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Machine Learning"
 date: 2017-02-24 21:06:26 +0800
-categories: "Machine Learning (Andrew Ng) Notes"
+categories: "ML"
 ---
 
 
@@ -35,7 +35,7 @@ Examples:
 
   (Computational biology) With automation again, biologists are collecting lots of data about gene sequences, DNA sequences, and so on. Machine learning algorithms are giving us much better a understanding of the human genome, and what is means to be human.
 
-- Applications can't program by hand
+- Applications cannot program by hand
 
   (Autonomous helicopter) Scientists do not know how to write a computer program to make this helicopter fly by itself. The only thing that worked was having a computer learn by itself how to fly this helicopter. 
 
