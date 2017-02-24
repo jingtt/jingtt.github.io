@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Welcome to Machine Learning"
+title:  "Notes: Welcome to Machine Learning"
 date: 2017-02-24 21:06:26 +0800
-categories: "ML"
+categories: "ML@Stanford"
 ---
 
 
