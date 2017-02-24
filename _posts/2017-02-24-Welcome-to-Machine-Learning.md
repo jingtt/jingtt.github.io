@@ -2,7 +2,7 @@
 layout: post
 title:  "Welcome to Machine Learning"
 date: 2016-06-19 21:06:26 +0800
-categories: Machine Learning (Andrew Ng) Notes
+categories: "Machine Learning (Andrew Ng) Notes"
 ---
 
 
