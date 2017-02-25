@@ -14,7 +14,7 @@ categories: "ML@Stanford"
 # What is machine learning?
 
 - Every time you use a web search engine like Google or Bing to search the Internet, one of the reasons that works so well is because a learning algorithm, one implemented by Google or Microsoft, has learned how to rank web pages.
-- Every time you read your email and your spam filter saves you from having to wade through tons of spam emails (email anti-spam), that's also machine learning. 
+- Every time you read your email and your spam filter saves you from having to wade through tons of spam emails (email anti-spam), that is also machine learning. 
 - AI dream of somebody building machines as intelligent as you. Many AI researchers believe that the best way is through learning algorithms that try to mimic how the human brain learns.
 
 Tom Mitchell provides a more modern definition: "A computer program is said to learn from experience E with respect to some class of tasks T and performance measure P, if its performance at tasks in T, as measured by P, improves with experience E."
